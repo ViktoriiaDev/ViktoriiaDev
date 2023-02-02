@@ -32,3 +32,4 @@
 
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/ViktoriiaKote)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-090909?style=flat-square&logo=whatsapp)](https://api.whatsapp.com/send?phone=79137264526)
+[![email](https://img.shields.io/badge/E-mail-090909?style=flat-square&logo=email)](mailto:kvi6605@gmail.com)
